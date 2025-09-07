@@ -1,9 +1,9 @@
 # Math-Functions-
 A collection of fundamental mathematical functions and numerical methods implemented in Python, serving as a learning resource and foundation for applied mathematics and machine learning.
 
-This repository contains implementations of core mathematical functions and algorithms, ranging from basic operations (factorials, prime tests, greatest common divisor) to more advanced topics such as derivatives, integrals, and numerical methods (bisection, Newton’s method, etc.). The project is designed as both a personal learning journey and a practical reference, gradually expanding towards applications in linear algebra, numerical analysis, and machine learning.
+This repository contains implementations of core mathematical functions and algorithms, ranging from basic operations (factorials, prime tests, greatest common divisor) to more advanced topics such as derivatives, integrals, and numerical methods (e.g. bisection, Newton’s method). The project is intended both as a personal learning journey and as a practical reference, gradually expanding towards applications in linear algebra, numerical analysis, and machine learning.
 
-Key features include:
+Key features:
 
 Fundamental arithmetic and number theory functions
 
@@ -11,8 +11,7 @@ Calculus utilities (derivatives, integrals, Taylor series)
 
 Numerical algorithms (root-finding, approximations)
 
-Clean, well-documented Python code
+A foundation for further projects in applied mathematics and ML
 
-A basis for further projects in applied math and ML
-
-Have Fun, contact me whenever you see something false or a better way to do it 
+This repository is a work in progress and will evolve over time.
+Feedback, suggestions, or improvements are very welcome!
